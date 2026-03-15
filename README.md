@@ -23,7 +23,7 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 
 <img width="782" height="910" alt="Image" src="https://github.com/user-attachments/assets/f5d0b803-b59a-4af3-a520-b377d2f180a6" />
 
-<img width="685" height="907" alt="image" src="https://github.com/user-attachments/assets/814743d1-cac1-44ae-937c-93a5786fb1fb" />
+<img width="773" height="909" alt="Image" src="https://github.com/user-attachments/assets/9087789a-2e7d-486c-875b-815c66fa3dd2" />
 
 - Fitur yang pertama yanitu tambah data penghuni, untuk menggunakan fitur ini terdapat floating button dengan ikon ( + ) pada bagian kanan bawah halaman dan tekan untuk masuk ke fitur tambah penghuni.
 
