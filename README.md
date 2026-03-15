@@ -14,25 +14,34 @@ Selain itu, aplikasi memanfaatkan Supabase Authentication (Auth) untuk mengelola
 # 2. Fitur Aplikasi Minpro-2
 ## A. Halaman Penghuni
 Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terdapat beberapa fitur seperti tambah data penghuni baru, edit data penghuni dan hapus data penghuni
-<img width="685" height="907" alt="image" src="https://github.com/user-attachments/assets/814743d1-cac1-44ae-937c-93a5786fb1fb" />
+<img width="773" height="909" alt="Image" src="https://github.com/user-attachments/assets/9087789a-2e7d-486c-875b-815c66fa3dd2" />
 
 ### a. Tambah Data Penghuni 
+<img width="778" height="911" alt="Image" src="https://github.com/user-attachments/assets/7bc2d249-81e6-404d-85e2-cb41955bbb60" />
+
+<img width="780" height="913" alt="Image" src="https://github.com/user-attachments/assets/9a349e00-8cc7-476d-9258-06831aa19bc2" />
+
+<img width="782" height="910" alt="Image" src="https://github.com/user-attachments/assets/f5d0b803-b59a-4af3-a520-b377d2f180a6" />
 
 <img width="685" height="907" alt="image" src="https://github.com/user-attachments/assets/814743d1-cac1-44ae-937c-93a5786fb1fb" />
 
 - Fitur yang pertama yanitu tambah data penghuni, untuk menggunakan fitur ini terdapat floating button dengan ikon ( + ) pada bagian kanan bawah halaman dan tekan untuk masuk ke fitur tambah penghuni.
 
-<img width="683" height="906" alt="image" src="https://github.com/user-attachments/assets/ef6ea46b-42d3-4c8b-9806-e47ee6d6a19f" />
+<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/fdac36b5-b067-494d-aecb-9db8dd2151de" />
+
 
 - Setelah menekan button di page data penghuni otomatis akan berpindah ke form page untuk menambah data penghuni baru. Terdapat kolom informasi data penghuni yang dapat di isi seperti nama, nim, no hp, nik, kampus, dan memilih kamar.
 
 
-<img width="684" height="907" alt="image" src="https://github.com/user-attachments/assets/5aec6c71-c17d-4455-b39f-b799b2c151a5" />
+<img width="776" height="907" alt="Image" src="https://github.com/user-attachments/assets/98f7929e-37f6-49be-8725-26721197b7f6" />
+
 
 - Bagian pemilihan kamar berbentuk dropdown no kamar A1 - B3 dan terdapat informasi jumlah penghuni di kamar-kamar tersebut.
 
 
-<img width="682" height="910" alt="image" src="https://github.com/user-attachments/assets/2f2b0a00-786f-4f41-8ff9-8b718bf22676" />
+<img width="778" height="912" alt="Image" src="https://github.com/user-attachments/assets/50f61645-1913-4c79-9ec8-51b7990ba1e2" />
+
+<img width="778" height="908" alt="Image" src="https://github.com/user-attachments/assets/795a951f-69a3-4083-9632-f1d0223c7a3f" />
 
 - Terdapat validator inpoutan dengan kriteria yang berbeda disetiap kolom formnya seperti nim yang wajib berupa angka, nomor hp minimal 11 digit, dan nik wajib 16 digit.
   
@@ -56,6 +65,13 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 
 ### b. Edit Data Penghuni
 
+<img width="770" height="162" alt="Image" src="https://github.com/user-attachments/assets/ef45ad24-b9a2-49e3-878b-9a763341fa7f" />
+
+<img width="782" height="915" alt="Image" src="https://github.com/user-attachments/assets/1536fe3c-4f9f-485b-8c58-bc322094a32f" />
+
+<img width="780" height="910" alt="Image" src="https://github.com/user-attachments/assets/88062fac-e8f2-4d4e-b0df-3355f9caa762" />
+
+<img width="781" height="914" alt="Image" src="https://github.com/user-attachments/assets/786363d7-6df4-42e6-b800-02d5bd7489c5" />
 <img width="682" height="213" alt="image" src="https://github.com/user-attachments/assets/4e91779a-a0d8-4b53-aa0a-4cbe5a40ac53" />
 
 - Selanjutnya ada fitur edit data penghuni yang dapat dilakukan dengan menekan tombol bergambarkan pensil seperti pada gambar di bawah ini.
@@ -81,6 +97,11 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 
 
 ### c. Hapus Data Penghuni
+<img width="777" height="162" alt="Image" src="https://github.com/user-attachments/assets/59ee41bc-b048-436b-9729-595d51e4cadb" />
+
+<img width="782" height="915" alt="Image" src="https://github.com/user-attachments/assets/67d01e86-2202-41ea-ab43-5c0131eb2543" />
+
+<img width="781" height="904" alt="Image" src="https://github.com/user-attachments/assets/d88683ee-fc21-407f-8b7f-fbe0ac12754e" />
 
 
 <img width="680" height="146" alt="image" src="https://github.com/user-attachments/assets/e5cbd45d-1008-4283-8e19-c0da2fc50b2e" />
@@ -100,12 +121,37 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 ## B. Halaman Kamar
 Pada halaman ini terdapat informasi mengenai kamar yang ada di asrama, informasinya meliputi nama kamar, jumlah penghuni disetiap kamarnya, kamar yang tersedia memiliki chip berwarna hijau  dan chip berwarna merah jika kamar penuh.
 
-<img width="682" height="908" alt="image" src="https://github.com/user-attachments/assets/98952b5d-ccc2-44c3-a361-db32310763b6" />
+<img width="773" height="907" alt="Image" src="https://github.com/user-attachments/assets/7709170a-7872-4d12-84f9-1cef32ff1873" />
+
+<img width="777" height="909" alt="Image" src="https://github.com/user-attachments/assets/c0419b35-38ef-4ab7-88b8-a6ebe7f17547" />
+
+<img width="774" height="904" alt="Image" src="https://github.com/user-attachments/assets/edc4ed7b-9311-47bf-a04f-f5ec8fdbff13" />
+
+<img width="776" height="912" alt="Image" src="https://github.com/user-attachments/assets/d705a363-6647-4964-8e06-1ff1d73b94bc" />
+
+<img width="775" height="914" alt="Image" src="https://github.com/user-attachments/assets/e1bfe1f3-c1a1-4eb5-a1a0-17f4a84e7e19" />
+
+<img width="774" height="913" alt="Image" src="https://github.com/user-attachments/assets/89b428e9-2afa-41d7-8f4c-537a50e4a6cb" />
+
+<img width="776" height="911" alt="Image" src="https://github.com/user-attachments/assets/0e5b4a8f-fe9d-4c81-b7e4-070528062cc6" />
+
+<img width="774" height="906" alt="Image" src="https://github.com/user-attachments/assets/0cb0bfff-b71e-4279-88f5-21716be4a974" />
+
 
 ## C. Halaman Keuangan
 Pada halaman keuangan terdapat data penghuni asrama seperti nama, nomor kamar, bulan terakhir membauar spp, jumlah tunggakan, dan status pembayarannya. Tunggakan dihitung berdasarkan tahun dan bulan terakhir si penghuni ini melakukan pembayaran dan tagihan perbulannya adalah Rp150.000. Pengguna dapat memperbarui waktu pembayaran terakhir penghuni dengan menekan tombol ber-ikon pensi berwarna hijau.
 
-<img width="683" height="907" alt="image" src="https://github.com/user-attachments/assets/9306a553-57dc-499d-a5f0-ea245d436e38" />
+<img width="773" height="911" alt="Image" src="https://github.com/user-attachments/assets/b8958fd9-5290-49d2-92d0-6b0e37a8bb72" />
+
+<img width="778" height="127" alt="Image" src="https://github.com/user-attachments/assets/ba9b0ae8-c44d-4751-a818-5407e27b0d0d" />
+
+<img width="782" height="905" alt="Image" src="https://github.com/user-attachments/assets/ef13a5bb-bb5d-459a-937f-d8a7c20c840a" />
+
+<img width="784" height="912" alt="Image" src="https://github.com/user-attachments/assets/35b5c16f-a7c6-4aae-87a0-0721e2077d8b" />
+
+<img width="778" height="911" alt="Image" src="https://github.com/user-attachments/assets/be9965bf-0737-498f-874f-8600159a0b2a" />
+
+<img width="779" height="906" alt="Image" src="https://github.com/user-attachments/assets/ac6010a5-2ffb-4a36-8e95-99fe161b69bd" />
 
 ### a. Update Pembayaran Penghuni
 <img width="682" height="219" alt="image" src="https://github.com/user-attachments/assets/3120546e-4aca-4e46-912d-8718c5e12c97" />
@@ -119,6 +165,33 @@ Pada halaman keuangan terdapat data penghuni asrama seperti nama, nomor kamar, b
 <img width="682" height="218" alt="image" src="https://github.com/user-attachments/assets/df39fadc-7027-4627-b152-5202ef88248f" />
 
 - Tunggakan dan status pembayaran akan berubah jika si penghuni sudah tidak memiliki tagihan yang belum terbayar.
+
+## D. Halaman Login
+<img width="776" height="913" alt="Image" src="https://github.com/user-attachments/assets/29cb2574-cd7a-4ec6-94bd-053c55662f07" />
+
+<img width="776" height="914" alt="Image" src="https://github.com/user-attachments/assets/7532eba5-a463-4b55-af04-b76cd7dd6a05" />
+
+<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/ceea1131-9e19-4610-b5be-50e6cdf6b5a6" />
+
+<img width="776" height="914" alt="Image" src="https://github.com/user-attachments/assets/9e9c738e-744e-4011-9316-2984e5ba7f7d" />
+
+## E.  Halaman Registrasi
+<img width="775" height="910" alt="Image" src="https://github.com/user-attachments/assets/2f572b3b-86ef-4abd-b30f-e4d604065c7c" />
+
+<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/22a26a87-0a25-4492-ad0e-84c0497e3700" />
+
+<img width="774" height="907" alt="Image" src="https://github.com/user-attachments/assets/944ccdbb-317f-48a5-a927-bbe5a32f8d74" />
+
+<img width="777" height="908" alt="Image" src="https://github.com/user-attachments/assets/4da9f0b1-7790-42a4-a60c-36df7d6e96e3" />
+
+<img width="778" height="914" alt="Image" src="https://github.com/user-attachments/assets/15aaf33b-b0b9-4b40-a348-5469c6d2e542" />
+
+## F. Darkmode & Lightmode
+<img width="777" height="910" alt="Image" src="https://github.com/user-attachments/assets/735a0520-4dd0-4b9b-a6da-ec1a6e547bed" />
+
+<img width="783" height="914" alt="Image" src="https://github.com/user-attachments/assets/3f584b27-b224-4d28-8700-9ab049e6541e" />
+
+<img width="778" height="913" alt="Image" src="https://github.com/user-attachments/assets/3a7c52b0-3103-48e3-a899-248371fc303e" />
 
 # 3. Penggunaan Widget
 ## A. Widget Halaman Penghuni
@@ -358,66 +431,12 @@ StatefulWidget adalah widget yang memiliki state bisa berubah yang fungsinya dal
 
 Fungsi dari widget ini adalah sebagai lifecycle State untuk inisialisasi state sebelum build. Dalam page ini berguna untuk Membuat data dummy (listPenghuni, listTagihan) saat halaman pertama kali dibuat.
 
-<img width="776" height="913" alt="Image" src="https://github.com/user-attachments/assets/29cb2574-cd7a-4ec6-94bd-053c55662f07" />
+- login
 
-<img width="775" height="910" alt="Image" src="https://github.com/user-attachments/assets/2f572b3b-86ef-4abd-b30f-e4d604065c7c" />
 
-<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/22a26a87-0a25-4492-ad0e-84c0497e3700" />
+-regis
 
-<img width="776" height="914" alt="Image" src="https://github.com/user-attachments/assets/7532eba5-a463-4b55-af04-b76cd7dd6a05" />
 
-<img width="773" height="909" alt="Image" src="https://github.com/user-attachments/assets/9087789a-2e7d-486c-875b-815c66fa3dd2" />
 
-<img width="777" height="910" alt="Image" src="https://github.com/user-attachments/assets/735a0520-4dd0-4b9b-a6da-ec1a6e547bed" />
 
-<img width="778" height="912" alt="Image" src="https://github.com/user-attachments/assets/50f61645-1913-4c79-9ec8-51b7990ba1e2" />
 
-<img width="778" height="908" alt="Image" src="https://github.com/user-attachments/assets/795a951f-69a3-4083-9632-f1d0223c7a3f" />
-
-<img width="783" height="914" alt="Image" src="https://github.com/user-attachments/assets/3f584b27-b224-4d28-8700-9ab049e6541e" />
-
-<img width="778" height="913" alt="Image" src="https://github.com/user-attachments/assets/3a7c52b0-3103-48e3-a899-248371fc303e" />
-
-<img width="778" height="911" alt="Image" src="https://github.com/user-attachments/assets/cb362762-96ab-4082-8d00-0efc1c083ba0" />
-
-<img width="778" height="913" alt="Image" src="https://github.com/user-attachments/assets/e1fe354c-42c0-48b7-8941-9657b4f24494" />
-
-<img width="774" height="915" alt="Image" src="https://github.com/user-attachments/assets/8816e04c-a8b3-4f87-8f15-d7104e41de52" />
-
-<img width="776" height="910" alt="Image" src="https://github.com/user-attachments/assets/5611b8c5-b123-4463-81fd-0da9093ef235" />
-
-<img width="773" height="907" alt="Image" src="https://github.com/user-attachments/assets/7709170a-7872-4d12-84f9-1cef32ff1873" />
-
-<img width="777" height="909" alt="Image" src="https://github.com/user-attachments/assets/c0419b35-38ef-4ab7-88b8-a6ebe7f17547" />
-
-<img width="774" height="904" alt="Image" src="https://github.com/user-attachments/assets/edc4ed7b-9311-47bf-a04f-f5ec8fdbff13" />
-
-<img width="776" height="912" alt="Image" src="https://github.com/user-attachments/assets/d705a363-6647-4964-8e06-1ff1d73b94bc" />
-
-<img width="775" height="914" alt="Image" src="https://github.com/user-attachments/assets/e1bfe1f3-c1a1-4eb5-a1a0-17f4a84e7e19" />
-
-<img width="774" height="913" alt="Image" src="https://github.com/user-attachments/assets/89b428e9-2afa-41d7-8f4c-537a50e4a6cb" />
-
-<img width="776" height="911" alt="Image" src="https://github.com/user-attachments/assets/0e5b4a8f-fe9d-4c81-b7e4-070528062cc6" />
-
-<img width="774" height="906" alt="Image" src="https://github.com/user-attachments/assets/0cb0bfff-b71e-4279-88f5-21716be4a974" />
-
-<img width="773" height="911" alt="Image" src="https://github.com/user-attachments/assets/b8958fd9-5290-49d2-92d0-6b0e37a8bb72" />
-
-<img width="776" height="916" alt="Image" src="https://github.com/user-attachments/assets/b3b50552-33aa-4cc4-8f84-af4789e0029d" />
-
-<img width="775" height="913" alt="Image" src="https://github.com/user-attachments/assets/9670bb8e-2557-4591-94dc-2b652733ab37" />
-
-<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/ceea1131-9e19-4610-b5be-50e6cdf6b5a6" />
-
-<img width="774" height="907" alt="Image" src="https://github.com/user-attachments/assets/944ccdbb-317f-48a5-a927-bbe5a32f8d74" />
-
-<img width="777" height="908" alt="Image" src="https://github.com/user-attachments/assets/4da9f0b1-7790-42a4-a60c-36df7d6e96e3" />
-
-<img width="778" height="914" alt="Image" src="https://github.com/user-attachments/assets/15aaf33b-b0b9-4b40-a348-5469c6d2e542" />
-
-<img width="776" height="914" alt="Image" src="https://github.com/user-attachments/assets/9e9c738e-744e-4011-9316-2984e5ba7f7d" />
-
-<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/fdac36b5-b067-494d-aecb-9db8dd2151de" />
-
-<img width="776" height="907" alt="Image" src="https://github.com/user-attachments/assets/98f7929e-37f6-49be-8725-26721197b7f6" />
