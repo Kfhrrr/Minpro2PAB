@@ -407,3 +407,17 @@ Fungsi dari widget ini adalah sebagai lifecycle State untuk inisialisasi state s
 <img width="776" height="916" alt="Image" src="https://github.com/user-attachments/assets/b3b50552-33aa-4cc4-8f84-af4789e0029d" />
 
 <img width="775" height="913" alt="Image" src="https://github.com/user-attachments/assets/9670bb8e-2557-4591-94dc-2b652733ab37" />
+
+<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/ceea1131-9e19-4610-b5be-50e6cdf6b5a6" />
+
+<img width="774" height="907" alt="Image" src="https://github.com/user-attachments/assets/944ccdbb-317f-48a5-a927-bbe5a32f8d74" />
+
+<img width="777" height="908" alt="Image" src="https://github.com/user-attachments/assets/4da9f0b1-7790-42a4-a60c-36df7d6e96e3" />
+
+<img width="778" height="914" alt="Image" src="https://github.com/user-attachments/assets/15aaf33b-b0b9-4b40-a348-5469c6d2e542" />
+
+<img width="776" height="914" alt="Image" src="https://github.com/user-attachments/assets/9e9c738e-744e-4011-9316-2984e5ba7f7d" />
+
+<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/fdac36b5-b067-494d-aecb-9db8dd2151de" />
+
+<img width="776" height="907" alt="Image" src="https://github.com/user-attachments/assets/98f7929e-37f6-49be-8725-26721197b7f6" />
