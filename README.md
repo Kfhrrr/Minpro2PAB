@@ -45,21 +45,17 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 
 - Terdapat validator inpoutan dengan kriteria yang berbeda disetiap kolom formnya seperti nim yang wajib berupa angka, nomor hp minimal 11 digit, dan nik wajib 16 digit.
   
-<img width="685" height="910" alt="image" src="https://github.com/user-attachments/assets/18aa29a1-d45c-4758-8653-483ae0a6389c" />
 
 - Untuk nik terdapat validator inputan yang membatasi setiap nik dari penghuni tidak boleh sama dan jika tidak sesuai dengan kriteria validator maka data tidak akan bisa disimpan dan muncul pesan sementara berwarna merah pada bagian bawah halaman.
 
 
-<img width="682" height="907" alt="image" src="https://github.com/user-attachments/assets/b8e6a2d0-f155-47e9-8b80-0349d2b89a33" />
 
 - Pada bagian kamar juga terdapat validator yang membatasi satu kamar hanya dapat diisi oleh 2 orang dan tidak boleh lebih, jika melebihi wajib memilih kamar yang lain.
 
-<img width="683" height="904" alt="image" src="https://github.com/user-attachments/assets/e52695e2-a816-488a-8a25-6b83ad5171d3" />
-  
+
 - Setelah semua form inputan telah diisi dengan benar, tekan tombol simpan dan akan muncul pop up message sebagai validasi terakhir sebelum menambahkan data penghuni baru, jika menekan batal maka proses akan dihentikan dan jika menekan tombol tambah maka data penghuni baru akan ditambahkan.
 
 
-<img width="684" height="907" alt="image" src="https://github.com/user-attachments/assets/666f2bd1-cae6-46e0-af1a-a078f63b481f" />
 
 - gambar di bawah ini adalah tampilan setelah berhasil melakukan penambahan data penghuni yang baru, akan muncul widgett pesan sementara berwarna hijau yang menandakan proses penambahan penghuni baru telah berhasil.
 
@@ -72,26 +68,24 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 <img width="780" height="910" alt="Image" src="https://github.com/user-attachments/assets/88062fac-e8f2-4d4e-b0df-3355f9caa762" />
 
 <img width="781" height="914" alt="Image" src="https://github.com/user-attachments/assets/786363d7-6df4-42e6-b800-02d5bd7489c5" />
-<img width="682" height="213" alt="image" src="https://github.com/user-attachments/assets/4e91779a-a0d8-4b53-aa0a-4cbe5a40ac53" />
+
 
 - Selanjutnya ada fitur edit data penghuni yang dapat dilakukan dengan menekan tombol bergambarkan pensil seperti pada gambar di bawah ini.
 
 
-<img width="685" height="909" alt="image" src="https://github.com/user-attachments/assets/d098db80-17b2-43e0-a89a-c875083d064d" />
+
 
 - Setelah menekan ikon bergambarkan pensil pengguna otomatis akan masuk ke fotur edit data pengguna yang tampilannya sama seperti saat menambahkan pengguna baru.
 
 
-<img width="684" height="907" alt="image" src="https://github.com/user-attachments/assets/ed954e21-e199-406a-b7fc-fe67200301be" />
 
 - Fitur edit ini juga memiliki validator inputan yang sama seperti saat menambah data baru, jadi isi dengan benar untuk melakukan perubahan.
 
 
-<img width="684" height="910" alt="image" src="https://github.com/user-attachments/assets/4c75f7a4-692d-4fbd-a247-a6e1fc4033cb" />
 
 - Jika semua data sudah benar akan muncul pop up message sebagai validator terakhir sebelum melakukan perubahan data, tekan tombol batal unutk membatalkan dan tekan tombol edit untuk melakukan perubahan.
 
-<img width="682" height="911" alt="image" src="https://github.com/user-attachments/assets/e7913213-7d11-4f9e-be29-8a2571f66c9c" />
+
 
 - Setelah berhasil melakukan perubahan data pengguna akan beralih kembali ke halaman data penghuni. Dapat dilihat data penghuni yang sbeelumnya di edit telah mengalami perubahan.
 
@@ -104,17 +98,14 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 <img width="781" height="904" alt="Image" src="https://github.com/user-attachments/assets/d88683ee-fc21-407f-8b7f-fbe0ac12754e" />
 
 
-<img width="680" height="146" alt="image" src="https://github.com/user-attachments/assets/e5cbd45d-1008-4283-8e19-c0da2fc50b2e" />
 
 - Selanjutnya ada fitur hapus data penghuni, untuk menjalankan fitur ini pengguna cukup menekan tombol dengan ikon tong sampah disebelah tombol untuk melakukan fitur edit.
 
 
-<img width="686" height="909" alt="image" src="https://github.com/user-attachments/assets/3470dd0f-a6d2-46f4-b82d-f08ad26b750c" />
 
 - Setelah menekan tombol muncul pop up message sebagai validator apakah pengguna benar-benar ingin menghapus data penghuni atau tidak, jika ingin menghapus data penghuni tekan tombol hapus dan jika tidak tekan tombol batal.
 
 
-<img width="683" height="911" alt="image" src="https://github.com/user-attachments/assets/f7a1e042-ec7c-4471-aece-72b7f10d3bb7" />
 
 - Gambar dibawha ini adlaah tampilan setelah menjalankan fitur hapus data penghuni, dapat dilihat data penghuni yang ingin dihapus sebelumnya telah menghilang ditandai dengan menculnya scaffoldmessanger pada bagian bawah halaman yang menandakan proses penghapusan berhasil.
 
@@ -154,15 +145,15 @@ Pada halaman keuangan terdapat data penghuni asrama seperti nama, nomor kamar, b
 <img width="779" height="906" alt="Image" src="https://github.com/user-attachments/assets/ac6010a5-2ffb-4a36-8e95-99fe161b69bd" />
 
 ### a. Update Pembayaran Penghuni
-<img width="682" height="219" alt="image" src="https://github.com/user-attachments/assets/3120546e-4aca-4e46-912d-8718c5e12c97" />
+
 
 - Terdapat tombol dengan ikon pensil berwarna hijau pada card setiap penghuni, pilih penghuni yang ingin diperbarui waktu pembayarannya dengan menekan tombol tersebut.
 
-<img width="684" height="912" alt="image" src="https://github.com/user-attachments/assets/e229aa09-ed11-45c9-b50b-550bb181f48b" />
+
 
 - Setelah ditekan pengguna dapat memperbarui waktu pembayaran dengan memilih bulan dan tahun penghuni melakukan pembayaran, jika sudah selesai memlih bulan dan tahun teka simpan untuk melakukan perbaruan waktu pembayaran.
 
-<img width="682" height="218" alt="image" src="https://github.com/user-attachments/assets/df39fadc-7027-4627-b152-5202ef88248f" />
+
 
 - Tunggakan dan status pembayaran akan berubah jika si penghuni sudah tidak memiliki tagihan yang belum terbayar.
 
