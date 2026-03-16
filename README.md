@@ -88,7 +88,7 @@ Pada halaman ini terdapat informasi mengenai kamar yang ada di asrama, informasi
 
 <img width="777" height="909" alt="Image" src="https://github.com/user-attachments/assets/c0419b35-38ef-4ab7-88b8-a6ebe7f17547" />
 
-- aat ditekan akan muncul pop up message tambah kamar, pengguna tinggal memasukkan nomor kamar dan menekan button tambah untuk menambahkan kamar baru dan batal untuk membatalkan penambahan kamar baru.
+- Saat ditekan akan muncul pop up message tambah kamar, pengguna tinggal memasukkan nomor kamar dan menekan button tambah untuk menambahkan kamar baru dan batal untuk membatalkan penambahan kamar baru.
 
 <img width="774" height="904" alt="Image" src="https://github.com/user-attachments/assets/edc4ed7b-9311-47bf-a04f-f5ec8fdbff13" />
 
@@ -121,55 +121,82 @@ Pada halaman keuangan terdapat data penghuni asrama seperti nama, nomor kamar, b
 
 <img width="773" height="911" alt="Image" src="https://github.com/user-attachments/assets/b8958fd9-5290-49d2-92d0-6b0e37a8bb72" />
 
-<img width="778" height="127" alt="Image" src="https://github.com/user-attachments/assets/ba9b0ae8-c44d-4751-a818-5407e27b0d0d" />
-
-<img width="782" height="905" alt="Image" src="https://github.com/user-attachments/assets/ef13a5bb-bb5d-459a-937f-d8a7c20c840a" />
-
-<img width="784" height="912" alt="Image" src="https://github.com/user-attachments/assets/35b5c16f-a7c6-4aae-87a0-0721e2077d8b" />
-
-<img width="778" height="911" alt="Image" src="https://github.com/user-attachments/assets/be9965bf-0737-498f-874f-8600159a0b2a" />
-
-<img width="779" height="906" alt="Image" src="https://github.com/user-attachments/assets/ac6010a5-2ffb-4a36-8e95-99fe161b69bd" />
-
 ### a. Update Pembayaran Penghuni
-
+<img width="778" height="127" alt="Image" src="https://github.com/user-attachments/assets/ba9b0ae8-c44d-4751-a818-5407e27b0d0d" />
 
 - Terdapat tombol dengan ikon pensil berwarna hijau pada card setiap penghuni, pilih penghuni yang ingin diperbarui waktu pembayarannya dengan menekan tombol tersebut.
 
+<img width="782" height="905" alt="Image" src="https://github.com/user-attachments/assets/ef13a5bb-bb5d-459a-937f-d8a7c20c840a" />
 
+<img width="778" height="911" alt="Image" src="https://github.com/user-attachments/assets/be9965bf-0737-498f-874f-8600159a0b2a" />
+
+<img width="784" height="912" alt="Image" src="https://github.com/user-attachments/assets/35b5c16f-a7c6-4aae-87a0-0721e2077d8b" />
 
 - Setelah ditekan pengguna dapat memperbarui waktu pembayaran dengan memilih bulan dan tahun penghuni melakukan pembayaran, jika sudah selesai memlih bulan dan tahun teka simpan untuk melakukan perbaruan waktu pembayaran.
 
+<img width="779" height="906" alt="Image" src="https://github.com/user-attachments/assets/ac6010a5-2ffb-4a36-8e95-99fe161b69bd" />
 
-
-- Tunggakan dan status pembayaran akan berubah jika si penghuni sudah tidak memiliki tagihan yang belum terbayar.
+- Jika berhasil muncul snackbar brewarna hijau. Tunggakan dan status pembayaran akan berubah jika si penghuni sudah tidak memiliki tagihan yang belum terbayar.
 
 ## D. Halaman Login
 <img width="776" height="913" alt="Image" src="https://github.com/user-attachments/assets/29cb2574-cd7a-4ec6-94bd-053c55662f07" />
 
-<img width="776" height="914" alt="Image" src="https://github.com/user-attachments/assets/7532eba5-a463-4b55-af04-b76cd7dd6a05" />
+- Halaman login adalah tampilan yang pertama akan muncul saat menggunakan aplikasi. Terdapat kolom inputan email dan password yang digunakan untuk login. Jika belum mempunyai akun pengguna dapat melakukan registrasi terlebih dahulu dengan menekan button daftar yang berada dibawah button login.
 
 <img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/ceea1131-9e19-4610-b5be-50e6cdf6b5a6" />
 
-<img width="776" height="914" alt="Image" src="https://github.com/user-attachments/assets/9e9c738e-744e-4011-9316-2984e5ba7f7d" />
+- Jika akun dan password tidak sesuai muncul snackbar "Login gagal" dan tidak bisa login ke aplikasi sebelum password dan email benar.
+
+<img width="786" height="911" alt="image" src="https://github.com/user-attachments/assets/5432dfbe-0ac9-45ca-b1fb-7a7069bfa2f2" />
+
+- Jika email yang dimasukkan juga belum terdaftar maka tidak bisa melakukan login, masukkan akun yang telah terdaftar dan password yang benar untuk melakukan login
+
+<img width="786" height="913" alt="image" src="https://github.com/user-attachments/assets/78c1f09a-0c3e-4057-9999-836a75e4aef3" />
+
+- Jika password dan email benar maka app akan loading sebelum menampilkan tampilan aplikasi
+
+<img width="783" height="911" alt="image" src="https://github.com/user-attachments/assets/26124575-fcd2-4c16-b684-0d9060db4a25" />
+
+- Tampilan setelah loading selesai
+
 
 ## E.  Halaman Registrasi
 <img width="775" height="910" alt="Image" src="https://github.com/user-attachments/assets/2f572b3b-86ef-4abd-b30f-e4d604065c7c" />
 
-<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/22a26a87-0a25-4492-ad0e-84c0497e3700" />
+- Setelah menekan button daftar pengguna akan dialihkan ke halaman daftar, pengguna dapat mengisikan email, passowrd, dan konfirmasi password untuk membuat akun baru. Email yang digunakan adalah email aktif yang digunakan oleh pengguna, bukan akun fiktif.
 
 <img width="774" height="907" alt="Image" src="https://github.com/user-attachments/assets/944ccdbb-317f-48a5-a927-bbe5a32f8d74" />
 
+- Semua kolom wajib diisi sebelum menekan button daftar, jik tidak akan muncul snackbar yang berisi "Semua field wajib diisi" pada bagian bawah halaman.
+
 <img width="777" height="908" alt="Image" src="https://github.com/user-attachments/assets/4da9f0b1-7790-42a4-a60c-36df7d6e96e3" />
 
+- Password minimal 6 karakter untuk mendaftarkan akun.
+
 <img width="778" height="914" alt="Image" src="https://github.com/user-attachments/assets/15aaf33b-b0b9-4b40-a348-5469c6d2e542" />
+
+- format email harus benar, jika tidak pengguna tidak akan bisa mendaftar.
+
+<img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/22a26a87-0a25-4492-ad0e-84c0497e3700" />
+
+- Jika seluruh format pengisian untuk email dan password sudah benar, tekan button daftar untuk melakukan pendaftaran, pengguna akan otomatis dialihkan kembali kehalaman login.
+
+<img width="776" height="914" alt="Image" src="https://github.com/user-attachments/assets/7532eba5-a463-4b55-af04-b76cd7dd6a05" />
+
+- Saat dihalaman login akan muncul snackbar berisi "Pendaftaran berhasil! Silakan cek email untuk konfirmasi" yang dimana pengguna harus mengkofirmasi terlebih dahulu sebelum login, jika belum konfirmasi maka tidak bisa login.
 
 ## F. Darkmode & Lightmode
 <img width="777" height="910" alt="Image" src="https://github.com/user-attachments/assets/735a0520-4dd0-4b9b-a6da-ec1a6e547bed" />
 
+- Gambar diatas adalah tampilan darkmode dari app untuk halaman data penghuni, untuk mengaktifkan darkmode pengguna dapat menekan button dengan icon matahari saat berada di lightmode dan icon bulan saat berada di darkmode. Untuk kembali ke lightmode tekan button yang sama.
+
 <img width="783" height="914" alt="Image" src="https://github.com/user-attachments/assets/3f584b27-b224-4d28-8700-9ab049e6541e" />
 
+- Gambar di atas adalah tampilan darkmode untuk halaman kamar.
+  
 <img width="778" height="913" alt="Image" src="https://github.com/user-attachments/assets/3a7c52b0-3103-48e3-a899-248371fc303e" />
+
+- Gambar diatas adalah tampilan untuk halaman keuangan.
 
 # 3. Penggunaan Widget
 ## A. Widget Halaman Penghuni
@@ -223,6 +250,41 @@ Widget berbentuk tombol mengambang di atas konten, dalam page ini berfungsi seba
 
 Bentuknya adalah widget notifikasi sementara yang muncul dari bawah dan berfungsi sebagai feedback ke pengguna setelah berhasil menambah, mengedit, dan menghapus data penghuni.
 
+### K. PreferredSize
+<img width="443" height="100" alt="image" src="https://github.com/user-attachments/assets/b0c65fb9-9d61-4006-85e6-829156d63237" />
+
+PreferredSize bentuknya adalah sebuah widget yang digunakan untuk menentukan ukuran tertentu pada widget yang membutuhkan ukuran khusus. Widget ini berfungsi untuk mengatur tinggi AppBar agar menjadi lebih besar dari ukuran standar sehingga tampilan judul halaman terlihat lebih jelas.
+
+### L. LinearGradient
+<img width="472" height="118" alt="image" src="https://github.com/user-attachments/assets/e04c9b1f-cbbb-4508-94df-6ded2bde81fb" />
+
+LinearGradient bentuknya adalah efek gradasi warna yang berubah secara bertahap dari satu warna ke warna lainnya dalam arah tertentu. Widget ini berfungsi untuk memberikan tampilan latar belakang pada AppBar agar terlihat lebih menarik dengan kombinasi dua warna biru.
+
+### M. BoxDecoration
+<img width="483" height="203" alt="image" src="https://github.com/user-attachments/assets/c17a7bc7-077e-4982-a6f2-c201eccd6a40" />
+
+BoxDecoration bentuknya adalah pengaturan tampilan dekorasi pada sebuah widget seperti warna latar belakang, border, bayangan, atau gradasi warna. Widget ini berfungsi untuk memberikan gaya visual pada Container, seperti menambahkan gradient dan membuat sudut bawah AppBar menjadi melengkung.
+
+### N. CircleAvatar
+<img width="345" height="182" alt="image" src="https://github.com/user-attachments/assets/8e6dcec1-f368-4dd8-be01-ca1633140ba0" />
+
+CircleAvatar bentuknya adalah widget berbentuk lingkaran yang biasanya digunakan untuk menampilkan foto profil atau ikon pengguna. Widget ini berfungsi untuk menampilkan huruf pertama dari nama penghuni sebagai identitas visual pada daftar penghuni.
+
+### O. CircularProgressIndicator
+<img width="534" height="93" alt="image" src="https://github.com/user-attachments/assets/71ef20c2-d5fa-4dcd-b9b2-562507300f36" />
+
+CircularProgressIndicator bentuknya adalah indikator loading berbentuk lingkaran yang berputar. Widget ini berfungsi untuk menampilkan proses loading ketika aplikasi sedang memproses data seperti saat menyimpan, mengedit, atau menghapus data penghuni.
+
+### P. Opacity
+<img width="522" height="141" alt="image" src="https://github.com/user-attachments/assets/7cdf5473-b920-4183-899e-298fe2772b48" />
+
+Opacity bentuknya adalah widget yang digunakan untuk mengatur tingkat transparansi dari sebuah widget. Widget ini berfungsi untuk membuat layar menjadi sedikit gelap ketika proses loading berlangsung sehingga pengguna mengetahui bahwa aplikasi sedang memproses sesuatu.
+
+### Q. ModalBarrier
+<img width="520" height="122" alt="image" src="https://github.com/user-attachments/assets/24b7f6f2-50ef-4016-a250-e2aa897f347d" />
+
+ModalBarrier bentuknya adalah lapisan penghalang yang menutupi layar sehingga pengguna tidak dapat berinteraksi dengan widget lain di belakangnya. Widget ini berfungsi untuk mengunci tampilan aplikasi sementara ketika proses sedang berlangsung agar pengguna tidak menekan tombol lain.
+
 ## B. Widget Halaman Kamar
 ### a. Scaffold
 <img width="342" height="117" alt="image" src="https://github.com/user-attachments/assets/1e6ea6f4-f8a7-4b49-b075-f68cc233dfdf" />
@@ -258,6 +320,41 @@ Icon adalah widget untuk menampilkan ikon. Di KamarPage, digunakan Icons.meeting
 <img width="425" height="71" alt="image" src="https://github.com/user-attachments/assets/3404dafe-06c7-4091-83cd-afed99461aff" />
 
 Chip adalah widget untuk menampilkan label kecil berbentuk kapsul. Di sini, digunakan untuk menandai status kamar (Penuh atau Tersedia) dengan warna merah jika penuh dan hijau jika tersedia.
+
+### H. TextField
+<img width="466" height="222" alt="image" src="https://github.com/user-attachments/assets/76b9f533-be61-4521-8876-46081a7e56b3" />
+
+TextField bentuknya adalah sebuah kolom input yang digunakan untuk memasukkan teks dari pengguna. Widget ini berfungsi untuk menerima input nomor kamar dari pengguna ketika ingin menambahkan kamar baru.
+
+### I. AlertDialog
+<img width="520" height="107" alt="image" src="https://github.com/user-attachments/assets/964bc2b2-f33f-4a34-a2d8-8a1fe98b5907" />
+
+AlertDialog bentuknya adalah sebuah kotak dialog yang muncul di tengah layar untuk menampilkan informasi atau meminta konfirmasi dari pengguna. Widget ini berfungsi untuk menampilkan form input kamar atau konfirmasi sebelum menghapus kamar.
+
+### J. ElevatedButton
+<img width="424" height="88" alt="image" src="https://github.com/user-attachments/assets/4556845a-0263-4430-97c2-19ed2a9213aa" />
+
+ElevatedButton bentuknya adalah tombol dengan efek bayangan yang membuatnya terlihat menonjol. Widget ini berfungsi sebagai tombol aksi utama seperti tombol Tambah atau Hapus pada dialog.
+
+### K. SnackBar
+<img width="359" height="100" alt="image" src="https://github.com/user-attachments/assets/c62fb19f-b505-4420-b95a-794d336303d4" />
+
+SnackBar bentuknya adalah notifikasi kecil yang muncul sementara di bagian bawah layar. Widget ini berfungsi untuk memberikan informasi kepada pengguna seperti pesan berhasil menambah kamar atau gagal melakukan operasi.
+
+### L. FloatingActionButton
+<img width="408" height="88" alt="image" src="https://github.com/user-attachments/assets/208c48d4-be03-4746-bb0f-3968c8ac3be2" />
+
+FloatingActionButton bentuknya adalah tombol berbentuk lingkaran yang biasanya berada di bagian kanan bawah layar. Widget ini berfungsi sebagai tombol utama untuk menambahkan data baru seperti menambah kamar.
+
+### M. PreferredSize
+<img width="389" height="55" alt="image" src="https://github.com/user-attachments/assets/1d67409b-c653-4ef6-ba5f-d161b2210579" />
+
+PreferredSize bentuknya adalah widget yang digunakan untuk menentukan ukuran tertentu pada widget yang membutuhkan ukuran khusus. Widget ini berfungsi untuk mengatur tinggi AppBar agar lebih besar dari ukuran standar sehingga tampilan judul halaman lebih jelas.
+
+### N. TextButton
+<img width="469" height="69" alt="image" src="https://github.com/user-attachments/assets/69e8d617-74e1-4246-85fe-c7d9fc783d71" />
+
+TextButton bentuknya adalah tombol sederhana yang hanya menampilkan teks tanpa latar belakang atau bayangan. Widget ini berfungsi sebagai tombol aksi ringan seperti tombol Batal pada dialog.
 
 ## C. Widget Form Penghuni
 ### a. Scaffold
@@ -320,6 +417,22 @@ GlobalKey<FormState> adalah kunci unik untuk mengontrol dan mengakses state dari
 
 ScaffoldMessenger & SnackBar adalah kombinasi widget untuk menampilkan pesan sementara di layar. SnackBar muncul dari bawah untuk memberi feedback, misal ketika data berhasil ditambahkan, diubah, atau terjadi error (misal NIK sudah ada atau kamar penuh), dengan warna hijau untuk sukses dan merah untuk error.
 
+### J. OutlineInputBorder
+<img width="452" height="67" alt="image" src="https://github.com/user-attachments/assets/40216f81-22a5-4d54-8ee7-4192329e7bf4" />
+
+OutlineInputBorder bentuknya adalah garis batas berbentuk kotak yang mengelilingi sebuah kolom input. Widget ini berfungsi untuk memberikan tampilan batas pada TextFormField sehingga kolom input terlihat lebih jelas dan rapi dengan sudut yang dapat dibuat melengkung.
+
+### K. InputDecoration
+<img width="484" height="133" alt="image" src="https://github.com/user-attachments/assets/03f24282-3a41-4a9b-be13-f9e8e787ef3e" />
+
+InputDecoration bentuknya adalah pengaturan tampilan pada kolom input seperti label, hint text, ikon, dan border. Widget ini berfungsi untuk memberikan keterangan pada TextFormField agar pengguna mengetahui data apa yang harus diisi, seperti label “Nama”, “NIK”, atau “No HP”.
+
+### L. CircularProgressIndicator
+<img width="378" height="110" alt="image" src="https://github.com/user-attachments/assets/f180bc75-c04a-479c-9597-14631d1ce98b" />
+
+CircularProgressIndicator bentuknya adalah indikator proses berbentuk lingkaran yang berputar. Widget ini berfungsi untuk menampilkan proses loading ketika aplikasi sedang menyimpan data penghuni sehingga pengguna mengetahui bahwa sistem sedang memproses data.
+
+
 ## D. Widget Halaman Keuangan
 ### a. Scaffold
 <img width="391" height="115" alt="image" src="https://github.com/user-attachments/assets/de6838c5-57d3-460c-a8a9-1eae5055a9a0" />
@@ -327,7 +440,7 @@ ScaffoldMessenger & SnackBar adalah kombinasi widget untuk menampilkan pesan sem
 Scaffold adalah widget dasar untuk struktur halaman, menyediakan layout standar seperti AppBar, body, dan FloatingActionButton. Di TagihanPage, Scaffold membungkus seluruh halaman keuangan asrama, termasuk daftar tagihan penghuni.
 
 ### b. Appbar
-img width="324" height="70" alt="image" src="https://github.com/user-attachments/assets/e3279c61-d5b6-4aaa-9f88-ebf794c232b3" />
+<img width="324" height="70" alt="image" src="https://github.com/user-attachments/assets/e3279c61-d5b6-4aaa-9f88-ebf794c232b3" />
 
 AppBar adalah widget bar di bagian atas halaman. Fungsinya di sini menampilkan judul halaman "Menu Keuangan Asrama" dengan warna biru
 
@@ -378,6 +491,26 @@ SizedBox adalah widget spacer yang digunakan untuk memberi jarak antar widget. D
 TextButton adalah tombol teks. Di page ini tombol “Batal” menutup dialog tanpa perubahan.
 ElevatedButton adalah tombol dengan efek raised. Di page ini tombol “Simpan” menyimpan perubahan pembayaran dan menutup dialog.
 
+### L. ModalBarrier
+<img width="479" height="64" alt="image" src="https://github.com/user-attachments/assets/8d63d53f-9247-4833-8f8a-f156e5ffcc75" />
+
+ModalBarrier bentuknya adalah lapisan penghalang yang menutupi layar sehingga pengguna tidak dapat berinteraksi dengan widget lain di belakangnya. Widget ini berfungsi untuk mengunci tampilan aplikasi ketika proses sedang berjalan agar pengguna tidak menekan tombol lain selama proses berlangsung.
+
+### M. CircleAvatar
+<img width="386" height="178" alt="image" src="https://github.com/user-attachments/assets/baface32-9aee-44b6-9d5f-30eb532f0f88" />
+
+CircleAvatar bentuknya adalah widget berbentuk lingkaran yang biasanya digunakan untuk menampilkan foto profil atau ikon pengguna. Widget ini berfungsi untuk menampilkan huruf pertama dari nama penghuni sebagai identitas visual pada daftar tagihan.
+
+### N. Opacity
+<img width="484" height="68" alt="image" src="https://github.com/user-attachments/assets/0c636ba9-ed9d-4cbb-9846-0cfc62766861" />
+
+Opacity bentuknya adalah widget yang digunakan untuk mengatur tingkat transparansi dari sebuah widget. Widget ini berfungsi untuk membuat layar menjadi sedikit gelap ketika proses sedang berlangsung sehingga pengguna mengetahui bahwa aplikasi sedang memproses data.
+
+### O. Expanded
+<img width="484" height="199" alt="image" src="https://github.com/user-attachments/assets/841ecf00-e683-4e32-9abd-8c4c311c9390" />
+
+Expanded bentuknya adalah widget yang digunakan untuk membuat sebuah widget mengisi ruang yang tersedia di dalam Row, Column, atau Flex. Widget ini berfungsi agar bagian teks pada kartu tagihan dapat menggunakan ruang yang tersisa secara maksimal tanpa membuat tampilan menjadi berantakan.
+
 ## E. Widget Main Page
 ### a. Scaffold
 <img width="500" height="497" alt="image" src="https://github.com/user-attachments/assets/adfab4b1-c6eb-498f-826b-a39abd0ef808" />
@@ -409,10 +542,98 @@ StatefulWidget adalah widget yang memiliki state bisa berubah yang fungsinya dal
 
 Fungsi dari widget ini adalah sebagai lifecycle State untuk inisialisasi state sebelum build. Dalam page ini berguna untuk Membuat data dummy (listPenghuni, listTagihan) saat halaman pertama kali dibuat.
 
-- login
+### H. LinearGradient
+<img width="311" height="201" alt="image" src="https://github.com/user-attachments/assets/1e67fbcf-c8f1-4fc9-8dea-e1432503147c" />
 
+LinearGradient bentuknya adalah efek gradasi warna yang berubah secara bertahap dari satu warna ke warna lainnya dalam arah tertentu. Widget ini berfungsi untuk memberikan tampilan latar belakang yang lebih menarik pada elemen antarmuka, seperti tombol mode gelap dan terang.
 
--regis
+### I. Positioned
+<img width="375" height="56" alt="image" src="https://github.com/user-attachments/assets/b32c91fe-9af5-47b9-9bb9-effddfb84727" />
+
+Positioned bentuknya adalah widget yang digunakan untuk mengatur posisi suatu widget secara spesifik di dalam widget Stack. Widget ini berfungsi untuk menempatkan tombol mode gelap/terang di posisi tertentu pada layar, seperti di bagian kanan bawah.
+
+### J. GestureDetector
+<img width="422" height="105" alt="image" src="https://github.com/user-attachments/assets/4a9d2909-24d5-4f16-b05f-3709f924354c" />
+
+GestureDetector bentuknya adalah widget yang digunakan untuk mendeteksi interaksi pengguna seperti sentuhan, ketukan, atau geseran pada layar. Widget ini berfungsi untuk menangkap aksi ketika pengguna menekan tombol untuk mengganti mode tampilan.
+
+### K. AnimatedContainer
+<img width="365" height="101" alt="image" src="https://github.com/user-attachments/assets/ccd73eb9-c909-40ed-8c99-c1fa416c2db8" />
+
+AnimatedContainer bentuknya adalah widget Container yang memiliki animasi ketika terjadi perubahan pada properti seperti ukuran, warna, atau dekorasi. Widget ini berfungsi untuk memberikan efek animasi halus ketika tampilan berubah, seperti saat berpindah dari mode terang ke mode gelap.
+
+### L. IndexedStack
+<img width="478" height="314" alt="image" src="https://github.com/user-attachments/assets/748f0b2d-cc1c-4c64-bde5-941cb0f36381" />
+
+IndexedStack bentuknya adalah widget yang menampilkan satu widget dari beberapa widget yang tersedia berdasarkan indeks yang dipilih. Widget ini berfungsi untuk menampilkan halaman yang berbeda pada aplikasi seperti halaman Penghuni, Kamar, dan Keuangan sesuai dengan menu yang dipilih pada navigasi bawah.
+
+### M. Icon
+<img width="393" height="87" alt="image" src="https://github.com/user-attachments/assets/abac0323-06a6-4c44-99a8-5640ef13d0b4" />
+
+Icon bentuknya adalah widget yang digunakan untuk menampilkan gambar ikon dari pustaka ikon yang tersedia di Flutter. Widget ini berfungsi untuk memberikan simbol visual pada elemen antarmuka seperti ikon orang, kamar, uang, atau tombol mode gelap dan terang.
+
+## F. Wigdet Halaman login
+
+### a. SingleChildScrollView
+<img width="324" height="149" alt="image" src="https://github.com/user-attachments/assets/de241fb1-5e87-462b-8f21-ad143262a0a3" />
+
+SingleChildScrollView bentuknya adalah widget yang memungkinkan konten di dalamnya dapat digulir secara vertikal atau horizontal ketika ukuran konten melebihi ukuran layar. Widget ini berfungsi agar tampilan halaman login tetap bisa di-scroll ketika layar kecil atau saat keyboard muncul.
+
+### b. Card
+<img width="395" height="344" alt="image" src="https://github.com/user-attachments/assets/0c307d4a-e4b5-4110-a75e-30b180cd58de" />
+
+Card bentuknya adalah widget berbentuk kartu dengan bayangan yang biasanya digunakan untuk mengelompokkan informasi atau komponen antarmuka. Widget ini berfungsi untuk membungkus form login agar tampil lebih rapi dan terpisah dari background halaman.
+
+### c. Column
+<img width="370" height="236" alt="image" src="https://github.com/user-attachments/assets/88695594-0b26-437c-93ba-07b80305851b" />
+
+Column bentuknya adalah widget layout yang digunakan untuk menyusun beberapa widget secara vertikal dari atas ke bawah. Widget ini berfungsi untuk mengatur susunan komponen seperti ikon, teks, dan form login agar tersusun rapi secara vertikal.
+
+### d.SizedBox
+<img width="371" height="221" alt="image" src="https://github.com/user-attachments/assets/9afd4142-672a-4854-9c0f-a81652323f6a" />
+
+SizedBox bentuknya adalah widget yang digunakan untuk memberikan jarak atau ukuran tertentu pada suatu elemen. Widget ini berfungsi untuk memberikan jarak antar komponen seperti antara teks, input field, dan tombol login.
+
+### e. ElevatedButton
+<img width="369" height="133" alt="image" src="https://github.com/user-attachments/assets/03961743-3230-42e5-889a-8adad5114fdb" />
+
+ElevatedButton bentuknya adalah tombol dengan efek bayangan yang terlihat lebih menonjol dibandingkan tombol biasa. Widget ini berfungsi sebagai tombol utama untuk melakukan proses login pada aplikasi.
+
+### f. Icon
+<img width="273" height="111" alt="image" src="https://github.com/user-attachments/assets/f71ec67e-4468-4717-a626-1e6d77ad9b71" />
+
+Icon bentuknya adalah widget yang digunakan untuk menampilkan simbol visual dari pustaka ikon Flutter. Widget ini berfungsi untuk menampilkan ikon pengguna pada halaman login agar tampilan lebih informatif dan menarik.
+
+### G. Widget Halaman regis
+### a. PreferredSize
+<img width="496" height="39" alt="image" src="https://github.com/user-attachments/assets/a5bed37c-c966-42f8-bc25-74c281d7354c" />
+
+PreferredSize digunakan untuk menentukan ukuran khusus dari suatu widget, biasanya pada AppBar. Pada kode ini, PreferredSize mengatur tinggi AppBar menjadi 70 pixel sehingga tampilan bar bagian atas terlihat lebih besar dari ukuran default.
+
+### b. LinearGradient
+<img width="388" height="85" alt="image" src="https://github.com/user-attachments/assets/7c1e45d1-ebba-49c6-9aca-e7be03cac9cb" />
+
+LinearGradient digunakan untuk memberikan efek gradasi warna pada suatu widget. Pada kode ini, LinearGradient memberi perpaduan warna biru muda dan biru lebih gelap pada bagian AppBar sehingga tampilannya terlihat lebih menarik dan modern.
+
+### c. TextField
+<img width="502" height="221" alt="image" src="https://github.com/user-attachments/assets/ff6ad870-3084-4240-a2b3-8c0d47da6629" />
+
+TextField adalah widget yang digunakan untuk menerima input teks dari pengguna. Pada kode ini, TextField digunakan untuk mengisi email, password, dan konfirmasi password saat proses pendaftaran akun.
+
+### d. InputDecoration
+<img width="501" height="136" alt="image" src="https://github.com/user-attachments/assets/64e340dd-4cdb-418f-84a2-725f518fd28b" />
+
+InputDecoration digunakan untuk mengatur tampilan dari TextField seperti label, ikon, dan bentuk border. Pada kode ini, InputDecoration menampilkan label seperti “Email”, “Password”, serta menambahkan ikon di dalam kolom input.
+
+### e. SnackBar
+<img width="498" height="99" alt="image" src="https://github.com/user-attachments/assets/f20e7838-ebcb-45f5-9431-46b2dff80d6e" />
+
+SnackBar adalah pesan notifikasi sementara yang muncul di bagian bawah layar. Pada kode ini, SnackBar digunakan untuk menampilkan pesan seperti “Semua field wajib diisi”, “Password tidak sama”, atau informasi bahwa pendaftaran berhasil.
+
+### f. icon
+<img width="348" height="89" alt="image" src="https://github.com/user-attachments/assets/f35274dc-2fce-4985-9e58-57ce4ccf6406" />
+
+Icon adalah widget yang digunakan untuk menampilkan simbol atau gambar kecil yang sudah disediakan oleh Flutter melalui pustaka Icons. Icon biasanya digunakan untuk memperjelas fungsi suatu fitur atau memberikan tampilan visual yang lebih menarik pada aplikasi.
 
 
 
