@@ -19,7 +19,7 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 ### a. Tambah Data Penghuni 
 <img width="773" height="909" alt="Image" src="https://github.com/user-attachments/assets/9087789a-2e7d-486c-875b-815c66fa3dd2" />
 
-- Fitur yang pertama yanitu tambah data penghuni, untuk menggunakan fitur ini terdapat floating button dengan ikon ( + ) pada bagian kanan bawah halaman dan tekan untuk masuk ke fitur tambah penghuni.
+- Fitur yang pertama yaitu tambah data penghuni, untuk menggunakan fitur ini terdapat floating button dengan ikon ( + ) pada bagian kanan bawah halaman dan tekan untuk masuk ke fitur tambah penghuni.
 
 <img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/fdac36b5-b067-494d-aecb-9db8dd2151de" />
 
@@ -27,38 +27,20 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 
 <img width="776" height="907" alt="Image" src="https://github.com/user-attachments/assets/98f7929e-37f6-49be-8725-26721197b7f6" />
 
-- Bagian pemilihan kamar berbentuk dropdown no kamar A1 - B3 dan terdapat informasi jumlah penghuni di kamar-kamar tersebut.
+- Bagian pemilihan kamar berbentuk dropdown no kamar A3, A2, dan A4 dan terdapat informasi jumlah penghuni di kamar-kamar tersebut.
 
 <img width="778" height="911" alt="Image" src="https://github.com/user-attachments/assets/7bc2d249-81e6-404d-85e2-cb41955bbb60" />
 
-- Jika kamar yang dipilih penuh maka tidak dapat menambahkan pengguna dan muncul validasi inputan berupa snackbar berwarna merah pada bagian bawah app.
+- Pada bagian kamar juga terdapat validator yang membatasi satu kamar hanya dapat diisi oleh 2 orang dan tidak boleh lebih, jika melebihi wajib memilih kamar yang lain.
 
 <img width="780" height="913" alt="Image" src="https://github.com/user-attachments/assets/9a349e00-8cc7-476d-9258-06831aa19bc2" />
 
-  
+- Terdapat juga validasi inputan pada kolom nik yang apabila nik penghuni yang baru ditambahkan sudah terdaftar didatabase akan muncul snackbar "NIK sudah terdaftar" berwarna merah yang muncul pada bagian bawah app. Selain itu juga terdapat validator inpoutan dengan kriteria yang berbeda disetiap kolom formnya seperti nim yang wajib berupa angka, nomor hp minimal 11 digit, dan nik wajib 16 digit.
+
 <img width="782" height="910" alt="Image" src="https://github.com/user-attachments/assets/f5d0b803-b59a-4af3-a520-b377d2f180a6" />
 
-
-<img width="773" height="909" alt="Image" src="https://github.com/user-attachments/assets/9087789a-2e7d-486c-875b-815c66fa3dd2" />
-
-
-<img width="778" height="912" alt="Image" src="https://github.com/user-attachments/assets/50f61645-1913-4c79-9ec8-51b7990ba1e2" />
-
-<img width="778" height="908" alt="Image" src="https://github.com/user-attachments/assets/795a951f-69a3-4083-9632-f1d0223c7a3f" />
-
-- Terdapat validator inpoutan dengan kriteria yang berbeda disetiap kolom formnya seperti nim yang wajib berupa angka, nomor hp minimal 11 digit, dan nik wajib 16 digit.
-  
-
-- Untuk nik terdapat validator inputan yang membatasi setiap nik dari penghuni tidak boleh sama dan jika tidak sesuai dengan kriteria validator maka data tidak akan bisa disimpan dan muncul pesan sementara berwarna merah pada bagian bawah halaman.
-
-
-
-- Pada bagian kamar juga terdapat validator yang membatasi satu kamar hanya dapat diisi oleh 2 orang dan tidak boleh lebih, jika melebihi wajib memilih kamar yang lain.
-
-
-- Setelah semua form inputan telah diisi dengan benar, tekan tombol simpan dan akan muncul pop up message sebagai validasi terakhir sebelum menambahkan data penghuni baru, jika menekan batal maka proses akan dihentikan dan jika menekan tombol tambah maka data penghuni baru akan ditambahkan.
-
-
+- Setelah semua form inputan telah diisi dengan benar, tekan tombol "Tambah Penghuni" dan akan muncul pop up message sebagai validasi terakhir sebelum menambahkan data penghuni baru, jika menekan batal maka proses akan dihentikan dan jika menekan tombol tambah maka data penghuni baru akan ditambahkan.
+ 
 
 - gambar di bawah ini adalah tampilan setelah berhasil melakukan penambahan data penghuni yang baru, akan muncul widgett pesan sementara berwarna hijau yang menandakan proses penambahan penghuni baru telah berhasil.
 
@@ -66,70 +48,72 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 
 <img width="770" height="162" alt="Image" src="https://github.com/user-attachments/assets/ef45ad24-b9a2-49e3-878b-9a763341fa7f" />
 
-<img width="782" height="915" alt="Image" src="https://github.com/user-attachments/assets/1536fe3c-4f9f-485b-8c58-bc322094a32f" />
-
-<img width="780" height="910" alt="Image" src="https://github.com/user-attachments/assets/88062fac-e8f2-4d4e-b0df-3355f9caa762" />
-
-<img width="781" height="914" alt="Image" src="https://github.com/user-attachments/assets/786363d7-6df4-42e6-b800-02d5bd7489c5" />
-
-
 - Selanjutnya ada fitur edit data penghuni yang dapat dilakukan dengan menekan tombol bergambarkan pensil seperti pada gambar di bawah ini.
 
-
-
+<img width="782" height="915" alt="Image" src="https://github.com/user-attachments/assets/1536fe3c-4f9f-485b-8c58-bc322094a32f" />
 
 - Setelah menekan ikon bergambarkan pensil pengguna otomatis akan masuk ke fotur edit data pengguna yang tampilannya sama seperti saat menambahkan pengguna baru.
 
-
+<img width="780" height="910" alt="Image" src="https://github.com/user-attachments/assets/88062fac-e8f2-4d4e-b0df-3355f9caa762" />
 
 - Fitur edit ini juga memiliki validator inputan yang sama seperti saat menambah data baru, jadi isi dengan benar untuk melakukan perubahan.
-
-
-
-- Jika semua data sudah benar akan muncul pop up message sebagai validator terakhir sebelum melakukan perubahan data, tekan tombol batal unutk membatalkan dan tekan tombol edit untuk melakukan perubahan.
-
-
+  
+<img width="781" height="914" alt="Image" src="https://github.com/user-attachments/assets/786363d7-6df4-42e6-b800-02d5bd7489c5" />
 
 - Setelah berhasil melakukan perubahan data pengguna akan beralih kembali ke halaman data penghuni. Dapat dilihat data penghuni yang sbeelumnya di edit telah mengalami perubahan.
+
+- Jika semua data sudah benar akan muncul pop up message sebagai validator terakhir sebelum melakukan perubahan data, tekan tombol batal unutk membatalkan dan tekan tombol edit untuk melakukan perubahan.
 
 
 ### c. Hapus Data Penghuni
 <img width="777" height="162" alt="Image" src="https://github.com/user-attachments/assets/59ee41bc-b048-436b-9729-595d51e4cadb" />
 
-<img width="782" height="915" alt="Image" src="https://github.com/user-attachments/assets/67d01e86-2202-41ea-ab43-5c0131eb2543" />
-
-<img width="781" height="904" alt="Image" src="https://github.com/user-attachments/assets/d88683ee-fc21-407f-8b7f-fbe0ac12754e" />
-
-
-
 - Selanjutnya ada fitur hapus data penghuni, untuk menjalankan fitur ini pengguna cukup menekan tombol dengan ikon tong sampah disebelah tombol untuk melakukan fitur edit.
 
-
+<img width="782" height="915" alt="Image" src="https://github.com/user-attachments/assets/67d01e86-2202-41ea-ab43-5c0131eb2543" />
 
 - Setelah menekan tombol muncul pop up message sebagai validator apakah pengguna benar-benar ingin menghapus data penghuni atau tidak, jika ingin menghapus data penghuni tekan tombol hapus dan jika tidak tekan tombol batal.
 
+<img width="781" height="904" alt="Image" src="https://github.com/user-attachments/assets/d88683ee-fc21-407f-8b7f-fbe0ac12754e" />
 
-
-- Gambar dibawha ini adlaah tampilan setelah menjalankan fitur hapus data penghuni, dapat dilihat data penghuni yang ingin dihapus sebelumnya telah menghilang ditandai dengan menculnya scaffoldmessanger pada bagian bawah halaman yang menandakan proses penghapusan berhasil.
+- Gambar di atas ini adalah tampilan setelah menjalankan fitur hapus data penghuni, dapat dilihat data penghuni yang ingin dihapus sebelumnya telah menghilang ditandai dengan munculnya scaffoldmessanger pada bagian bawah halaman yang menandakan proses penghapusan berhasil.
 
 ## B. Halaman Kamar
-Pada halaman ini terdapat informasi mengenai kamar yang ada di asrama, informasinya meliputi nama kamar, jumlah penghuni disetiap kamarnya, kamar yang tersedia memiliki chip berwarna hijau  dan chip berwarna merah jika kamar penuh.
+Pada halaman ini terdapat informasi mengenai kamar yang ada di asrama, informasinya meliputi nama kamar, jumlah penghuni disetiap kamarnya, kamar yang tersedia memiliki chip berwarna hijau dan chip berwarna merah jika kamar penuh. Selain itu terdapat juga fitur untuk menambah kamar baru dan menghapus kamar yang sudah tidak digunakan or hal lain.
 
+## a. Tambah Kamar
 <img width="773" height="907" alt="Image" src="https://github.com/user-attachments/assets/7709170a-7872-4d12-84f9-1cef32ff1873" />
+
+- Terdapat floating button dengan icon + dibagian pojok kanan bawah app untuk menambahkan kamar baru. 
 
 <img width="777" height="909" alt="Image" src="https://github.com/user-attachments/assets/c0419b35-38ef-4ab7-88b8-a6ebe7f17547" />
 
+- aat ditekan akan muncul pop up message tambah kamar, pengguna tinggal memasukkan nomor kamar dan menekan button tambah untuk menambahkan kamar baru dan batal untuk membatalkan penambahan kamar baru.
+
 <img width="774" height="904" alt="Image" src="https://github.com/user-attachments/assets/edc4ed7b-9311-47bf-a04f-f5ec8fdbff13" />
+
+- Gambar di atas adalah tampilan setelah menambahkan kamar baru, muncul snackbar "Kamar Berhasil Ditambahkan" berwarna hijau dan infromasi kamar baru akan muncul di halaman kamar.
 
 <img width="776" height="912" alt="Image" src="https://github.com/user-attachments/assets/d705a363-6647-4964-8e06-1ff1d73b94bc" />
 
+-  Gambar di atas adalah percobaan saat ingin menambakan kamar dengan nomor kamar yang sama, yaitu A1.
+
 <img width="775" height="914" alt="Image" src="https://github.com/user-attachments/assets/e1bfe1f3-c1a1-4eb5-a1a0-17f4a84e7e19" />
 
+- Saat menekan button tambah pengguna kembali ke halaman kamar dan muncul snackbar "kamar sudah ada" berwarna kuning yang menandakan bahwa penambahan kamar gagal karena sudah ada kamar dengan nomor yang sama.
+
+## b. Hapus Kamar
 <img width="774" height="913" alt="Image" src="https://github.com/user-attachments/assets/89b428e9-2afa-41d7-8f4c-537a50e4a6cb" />
+
+- Terdapat iconbutton tong sampah berwarna merah disebelah chip status kamar untuk menghapus kamar. Akan muncul pop up message berisi pilihan batal atau hapus sebagai validasi terakhir sebelum benar benar ingin menghapus kamar.
 
 <img width="776" height="911" alt="Image" src="https://github.com/user-attachments/assets/0e5b4a8f-fe9d-4c81-b7e4-070528062cc6" />
 
+- Setelah ditekan kamar akan terhapus yang ditandai dengan munculnya snackbar "Kamar Berhasil Dihapus" berwarna merah.
+
 <img width="774" height="906" alt="Image" src="https://github.com/user-attachments/assets/0cb0bfff-b71e-4279-88f5-21716be4a974" />
+
+- Gambar diatas adalah percobaan jika menghapus kamar yang masih berpenghuni, jadi diperbolehkan menghapus kamar hanya jika kamar tersebut sudah tidak berpenghuni atau penghuninya telah dipindahkan ke kamar lain.
 
 
 ## C. Halaman Keuangan
