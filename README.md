@@ -17,26 +17,29 @@ Pada halaman ini memuat dan menampilkan daftar penghuni. pada page ini juga terd
 <img width="773" height="909" alt="Image" src="https://github.com/user-attachments/assets/9087789a-2e7d-486c-875b-815c66fa3dd2" />
 
 ### a. Tambah Data Penghuni 
-<img width="778" height="911" alt="Image" src="https://github.com/user-attachments/assets/7bc2d249-81e6-404d-85e2-cb41955bbb60" />
-
-<img width="780" height="913" alt="Image" src="https://github.com/user-attachments/assets/9a349e00-8cc7-476d-9258-06831aa19bc2" />
-
-<img width="782" height="910" alt="Image" src="https://github.com/user-attachments/assets/f5d0b803-b59a-4af3-a520-b377d2f180a6" />
-
 <img width="773" height="909" alt="Image" src="https://github.com/user-attachments/assets/9087789a-2e7d-486c-875b-815c66fa3dd2" />
 
 - Fitur yang pertama yanitu tambah data penghuni, untuk menggunakan fitur ini terdapat floating button dengan ikon ( + ) pada bagian kanan bawah halaman dan tekan untuk masuk ke fitur tambah penghuni.
 
 <img width="775" height="912" alt="Image" src="https://github.com/user-attachments/assets/fdac36b5-b067-494d-aecb-9db8dd2151de" />
 
-
-- Setelah menekan button di page data penghuni otomatis akan berpindah ke form page untuk menambah data penghuni baru. Terdapat kolom informasi data penghuni yang dapat di isi seperti nama, nim, no hp, nik, kampus, dan memilih kamar.
-
+- Setelah menekan button di page data penghuni otomatis akan berpindah ke form page untuk menambah data penghuni baru. Terdapat kolom informasi data penghuni yang dapat di isi seperti nama, nim, no hp, nik, kampus, dan memilih kamar. Setiap kolom wajib di isi untuk menambahkan data penghuni.
 
 <img width="776" height="907" alt="Image" src="https://github.com/user-attachments/assets/98f7929e-37f6-49be-8725-26721197b7f6" />
 
-
 - Bagian pemilihan kamar berbentuk dropdown no kamar A1 - B3 dan terdapat informasi jumlah penghuni di kamar-kamar tersebut.
+
+<img width="778" height="911" alt="Image" src="https://github.com/user-attachments/assets/7bc2d249-81e6-404d-85e2-cb41955bbb60" />
+
+- Jika kamar yang dipilih penuh maka tidak dapat menambahkan pengguna dan muncul validasi inputan berupa snackbar berwarna merah pada bagian bawah app.
+
+<img width="780" height="913" alt="Image" src="https://github.com/user-attachments/assets/9a349e00-8cc7-476d-9258-06831aa19bc2" />
+
+  
+<img width="782" height="910" alt="Image" src="https://github.com/user-attachments/assets/f5d0b803-b59a-4af3-a520-b377d2f180a6" />
+
+
+<img width="773" height="909" alt="Image" src="https://github.com/user-attachments/assets/9087789a-2e7d-486c-875b-815c66fa3dd2" />
 
 
 <img width="778" height="912" alt="Image" src="https://github.com/user-attachments/assets/50f61645-1913-4c79-9ec8-51b7990ba1e2" />
